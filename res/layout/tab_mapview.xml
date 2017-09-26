@@ -1,0 +1,31 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:orientation="vertical" android:layout_width="match_parent"
+  android:layout_height="match_parent">
+
+    <net.daum.mf.map.api.MapView
+        android:id="@+id/map_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         />
+ 
+    <!-- <TextView android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:background="#770000ff"
+     android:textColor="#fff"
+     android:padding="3dp"
+     android:gravity="center"
+     android:text="현재위치를 보고싶으면 메뉴를 누르세요"/> -->
+
+    <Button
+        android:id="@+id/gps"
+        android:layout_width="match_parent"
+        android:layout_height="25dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="현재위치를 보고 싶으면 여기를 누르세요" 
+        android:background="#770000ff"
+        android:textColor="#fff"
+        android:textSize="18dp"/>
+
+</RelativeLayout><!-- From: file:/Users/jetoyrico/git/daumMapMobileApi/MapAndroid/apps/DaumMapApiDemos/app/src/main/res/layout/demo_nested_mapview.xml -->

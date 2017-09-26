@@ -1,0 +1,261 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+   >
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp" >
+
+       <TableLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:background="#ffffff"
+           android:paddingBottom="10dp"
+           android:paddingLeft="10dp"
+           android:paddingRight="10dp"
+           android:paddingTop="10dp"
+           android:stretchColumns="2" >
+
+           <TableRow
+               android:id="@+id/tableRow11"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView11"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_span="1"
+                   android:layout_weight="1"
+                   android:textSize="20dp"
+                   android:paddingRight="5dp"
+                   android:paddingTop="5dp"
+                  android:paddingBottom="5dp"
+            		android:textColor="#f44336"
+                   android:text="공지사항" />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow12"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView12"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textColor="#383838"
+                   android:paddingTop="1dp"
+                  android:paddingBottom="1dp"
+                   android:text="> 각 주민센터에서 제공되는 정보들만 보여집니다." />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow13"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView13"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textColor="#383838"
+                   android:paddingTop="1dp"
+                  android:paddingBottom="1dp"
+                   android:text="> 자세한 정보는 홈페이지와 주민센터에 문의 바랍니다." />
+           </TableRow>
+
+           
+            <TableRow
+               android:id="@+id/tableRow18"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView18"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_span="1"
+                   android:layout_weight="1"
+                   android:paddingBottom="5dp"
+                   android:paddingRight="5dp"
+                   android:paddingTop="5dp"
+                  android:textSize="20dp"
+           		   android:textColor="#f44336"
+                   android:text="사용 방법" />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow1"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:layout_span="1"
+               android:layout_weight="1"
+               android:paddingBottom="5dp"
+               android:paddingRight="5dp" >
+
+               <TextView
+                   android:id="@+id/textView1"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_span="1"
+                   android:layout_weight="1"
+                   android:paddingBottom="5dp"
+                   android:paddingRight="5dp"
+                   android:paddingTop="5dp"
+                   android:textColor="#383838"
+                   android:text="1) 즐겨찾기" />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow2"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView2"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textColor="#383838"
+                   android:paddingTop="1dp"
+                  android:paddingBottom="1dp"
+                   android:text="- 원하는 강좌를 즐겨찾기로 저장할 수 있습니다." />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow3"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView3"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textColor="#383838"
+                   android:paddingTop="1dp"
+                  android:paddingBottom="1dp"
+                   android:text="- 메뉴 클릭 시 해당 강좌의 홈페이지로 이동합니다." />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow4"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView4"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textColor="#383838"
+                   android:paddingTop="1dp"
+                  android:paddingBottom="1dp"
+                   android:text="- 메뉴를 왼쪽으로 슬라이드하면 삭제가 가능합니다." />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow5"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView5"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_span="1"
+                   android:layout_weight="1"
+                   android:paddingBottom="5dp"
+                   android:paddingRight="5dp"
+                   android:paddingTop="5dp"
+                   android:textColor="#383838"
+                   android:text="2) 동찾기" />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow6"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView6"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textColor="#383838"
+                   android:paddingTop="1dp"
+                  android:paddingBottom="1dp"
+                   android:text="- 주소를 선택하여 각 구의 동별 강좌 목록을 확인할 수 있습니다." />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow7"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView7"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textColor="#383838"
+                   android:paddingTop="1dp"
+                  android:paddingBottom="1dp"
+                   android:text="- 현재 보고있는 강좌를 즐겨찾기로 추가할 수 있습니다." />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow8"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView8"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_span="1"
+                   android:layout_weight="1"
+                   android:paddingBottom="5dp"
+                   android:paddingRight="5dp"
+                   android:paddingTop="5dp"
+                   android:textColor="#383838"
+                   android:text="3) 지도" />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow9"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView9"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textColor="#383838"
+                   android:paddingTop="1dp"
+                  android:paddingBottom="1dp"
+                   android:text="- 메뉴를 눌러 GPS를 켤 수 있습니다." />
+           </TableRow>
+
+           <TableRow
+               android:id="@+id/tableRow10"
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content" >
+
+               <TextView
+                   android:id="@+id/textView10"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:textColor="#383838"
+                   android:paddingTop="1dp"
+                  android:paddingBottom="1dp"
+                   android:text="- 자신의 현재위치와 가까운 동 주민센터와 강좌 목록을 확인할 수 있습니다." />
+           </TableRow>
+       </TableLayout>
+
+    </ScrollView>
+
+</LinearLayout>

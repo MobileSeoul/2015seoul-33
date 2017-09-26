@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="placeCode">
+
+        <!-- 강남구 18개 -->
+        <item>개포2동,37.489626, 127.068560</item>
+        <item>논현1동,37.511486, 127.028536</item>
+        <item>논현2동,37.517231, 127.037184</item>
+        <item>대치1동,37.493233, 127.056762</item>
+        <item>대치2동,37.502262, 127.064170</item>
+        <item>대치4동,37.499787, 127.057780</item>
+        <item>대치평생학습관,37.515851, 127.052146</item>
+        <item>도곡1동,37.488252, 127.039246</item>
+        <item>도곡2동,37.483640, 127.046413</item>
+        <item>삼성1동,37.514329, 127.062557</item>
+        <item>삼성2동,37.511147, 127.045922</item>
+        <item>세곡문화센터,37.468983,127.106915</item>
+        <item>신사문화센터,37.516534,127.020594</item>
+        <item>압구정평생학습관,37.527297, 127.035828</item>
+        <item>역삼1동,37.495237, 127.033216</item>
+        <item>역삼2동,37.495979, 127.046828</item>
+        <item>청담동,37.525047, 127.049241</item>
+        <item>청담평생학습관,37.519016,127.046447</item>
+        <!-- 강남 끝 -->
+
+
+        <!-- 중구 15개 -->
+        <item>광희동,37.564444, 127.005045</item>
+        <item>다산동,37.554359, 127.008267</item>
+        <item>동화동,37.565090, 127.021854</item>
+        <item>명동,37.560038, 126.985780</item>
+        <item>소공동,37.562427, 126.977054</item>
+        <item>신당5동,37.565107, 127.021852</item>
+        <item>신당동,37.562055, 127.014580</item>
+        <item>약수동,37.552420, 127.008979</item>
+        <item>을지로동,37.566665, 126.991325</item>
+        <item>장충동,37.561900, 127.007805</item>
+        <item>중림동,37.559406, 126.966176</item>
+        <item>청구동,37.557031, 127.014682</item>
+        <item>필동,37.560101, 126.995565</item>
+        <item>황학동,37.567379, 127.021388</item>
+        <item>회현동,37.557305, 126.979353</item>
+
+        <!-- 중구 끝 -->
+
+
+        <!-- 광진구 15개 -->
+        <item>광장동,37.546836, 127.103035 </item>
+        <item>구의1동,37.542454, 127.085654</item>
+        <item>구의2동,37.547161, 127.089840</item>
+        <item>구의3동,37.537957, 127.091911</item>
+        <item>군자동,37.555123, 127.075902</item>
+        <item>능동,37.538806, 127.083406</item>
+        <item>자양1동,37.534455, 127.082373 </item>
+        <item>자양2동,37.528766, 127.084366 </item>
+        <item>자양3동,37.533786, 127.072916</item>
+        <item>자양4동,37.534072, 127.066303</item>
+        <item>중곡1동,37.560562, 127.080053 </item>
+        <item>중곡2동,37.560180, 127.081475 </item>
+        <item>중곡3동,37.538794, 127.083456</item>
+        <item>중곡4동,37.559050, 127.089411</item>
+        <item>화양동,37.546524, 127.071297</item>
+
+        <!-- 광진구 끝 -->
+
+
+        <!-- 구로구 15개 끝 -->
+        <item>가리봉동,37.481625, 126.893311</item>
+        <item>개봉1동,37.499874, 126.851065</item>
+        <item>개봉2동,37.490817, 126.856526</item>
+        <item>개봉3동,37.485956, 126.853855</item>
+        <item>고척1동,37.500376, 126.862757</item>
+        <item>고척2동,37.506508, 126.858310</item>
+        <item>구로1동,37.493005, 126.875763</item>
+        <item>구로2동,37.491362, 126.883592</item>
+        <item>구로3동,37.485750, 126.893335</item>
+        <item>구로4동,37.491536, 126.889201</item>
+        <item>구로5동,37.500019, 126.889329</item>
+        <item>수궁동,37.493878, 126.831455</item>
+        <item>신도림동,37.507679, 126.880564</item>
+        <item>오류1동,37.497035, 126.845051</item>
+        <item>오류2동,37.488756, 126.839486</item>
+
+        <!-- 구로구 끝 -->
+
+
+        <!-- 동대문구 14개 끝 -->
+        <item>답십리1동, 37.571897, 127.051157</item>
+        <item>답십리2동, 37.567369, 127.061228</item>
+        <item>용신동, 37.575757, 127.037241</item>
+        <item>이문1동, 37.597805, 127.065463</item>
+        <item>이문2동, 37.603346, 127.065045</item>
+        <item>장안1동, 37.567757, 127.066377</item>
+        <item>장안2동, 37.578415, 127.070591</item>
+        <item>전농1동, 37.577947, 127.047761</item>
+        <item>전농2동, 37.578053, 127.059993</item>
+        <item>제기동, 37.585533, 127.042017</item>
+        <item>청량리동, 37.586245, 127.047236</item>
+        <item>회기동, 37.590783, 127.055350</item>
+        <item>휘경1동, 37.592902, 127.065717</item>
+        <item>휘경2동, 37.590003, 127.068598</item>
+
+        <!-- 동대문구 끝 -->
+
+
+        <!-- 용산구 16개 끝 -->
+        <item>남영동, 37.545712, 126.974831</item>
+        <item>보광동, 37.526261, 127.000163</item>
+        <item>서빙고동, 37.520393, 126.994636</item>
+        <item>용문동, 37.538926, 126.957583</item>
+        <item>용산2가동, 37.546035, 126.985546</item>
+        <item>원효로1동, 37.537177, 126.967652</item>
+        <item>원효로2동, 37.534322, 126.951495</item>
+        <item>이촌1동, 37.521361, 126.973210</item>
+        <item>이촌2동, 37.526266, 126.954651</item>
+        <item>이태원1동, 37.532460, 126.995071</item>
+        <item>이태원2동, 37.541882, 126.990164</item>
+        <item>청파동, 37.545373, 126.969877</item>
+        <item>한강로동, 37.528980, 126.969499</item>
+        <item>한남동, 37.534567, 127.000463</item>
+        <item>효창동, 37.542490, 126.961779</item>
+        <item>후암동, 37.548644, 126.978137</item>
+        <!-- 용산구 끝 -->
+
+
+        <!-- 성동구 17개 끝 -->
+        <item>금호1가동, 37.554817, 127.021632</item>
+        <item>금호2-3가동, 37.553255, 127.020849</item>
+        <item>금호4가동, 37.547168, 127.022380</item>
+        <item>마장동, 37.566286, 127.045408</item>
+        <item>사근동, 37.561177, 127.045851</item>
+        <item>성수1가1동, 37.542012, 127.049694</item>
+        <item>성수1가2동, 37.546342, 127.044248</item>
+        <item>성수2가1동, 37.539529, 127.054014</item>
+        <item>성수2가3동, 37.548201, 127.055243</item>
+        <item>송정동, 37.554485, 127.069546</item>
+        <item>옥수동, 37.543694, 127.013428</item>
+        <item>왕십리2동, 37.561060, 127.030487</item>
+        <item>왕십리도선동, 37.565965, 127.031497</item>
+        <item>용답동, 37.564067, 127.055574</item>
+        <item>응봉동, 37.553117, 127.033406</item>
+        <item>행당1동, 37.558501, 127.036186</item>
+        <item>행당2동, 37.558203, 127.029343</item>
+        <!-- 성동구 끝 -->
+
+
+        <!-- 강북구 17개 끝 -->
+        <item>미아동, 37.631665, 127.024397</item>
+        <item>번1동, 37.637852, 127.028851</item>
+        <item>번2동, 37.632329, 127.038757</item>
+        <item>번3동, 37.625835, 127.046574</item>
+        <item>삼각산동, 37.616694, 127.017492</item>
+        <item>삼양동(삼양관), 37.627312, 127.018364</item>
+        <item>삼양동(솔샘관), 37.627312, 127.018364</item>
+        <item>송중동(송중관), 37.616102, 127.033708</item>
+        <item>송중동(정보문화관), 37.616102, 127.033708</item>
+        <item>송천동(송천관), 37.618271, 127.023842</item>
+        <item>송천동(솔샘관), 37.618271, 127.023842</item>
+        <item>수유1동, 37.629983, 127.017558</item>
+        <item>수유2동, 37.644638, 127.019879</item>
+        <item>수유3동, 37.638692, 127.023151</item>
+        <item>우이동, 37.647882, 127.011865</item>
+        <item>인수동(나눔터관), 37.641466, 127.010595</item>
+        <item>인수동(인수봉관), 37.641466, 127.010595</item>
+        <!-- 강북구 끝 -->
+
+
+        <!-- 도봉구 14개 끝 -->
+        <item>도봉1동, 37.678623, 127.043384</item>
+        <item>도봉2동, 37.669658, 127.046510</item>
+        <item>방학1동, 37.664182, 127.040655</item>
+        <item>방학2동, 37.668194, 127.035042</item>
+        <item>방학3동, 37.659140, 127.028020</item>
+        <item>쌍문1동, 37.648299, 127.026438</item>
+        <item>쌍문2동, 37.657937, 127.038822</item>
+        <item>쌍문3동, 37.648942, 127.027907</item>
+        <item>쌍문4동, 37.656397, 127.028379</item>
+        <item>창1동, 37.648333, 127.043765</item>
+        <item>창2동, 37.641379, 127.035656</item>
+        <item>창3동, 37.638118, 127.042901</item>
+        <item>창4동, 37.652248, 127.051503</item>
+        <item>창5동, 37.656247, 127.043561</item>
+        <!-- 도봉구 끝 -->
+
+
+        <!-- 마포구 16개 끝 -->
+        <item>공덕동, 37.550131, 126.959989</item>
+        <item>대흥동, 37.555849, 126.942379</item>
+        <item>도화동, 37.537596, 126.950190</item>
+        <item>망원1동, 37.555578, 126.905552</item>
+        <item>망원2동, 37.560314, 126.902275</item>
+        <item>상암동, 37.578273, 126.894618</item>
+        <item>서강동, 37.547699, 126.932113</item>
+        <item>서교동, 37.555147, 126.914622</item>
+        <item>성산1동, 37.563332, 126.907888</item>
+        <item>성산2동, 37.568571, 126.908983</item>
+        <item>신수동, 37.547007, 126.935300</item>
+        <item>아현동, 37.547028, 126.952162</item>
+        <item>연남동, 37.564492, 126.921949</item>
+        <item>염리동, 37.547037, 126.945636</item>
+        <item>용강동, 37.541950, 126.941607</item>
+        <item>합정동, 37.549401, 126.905694</item>
+        <!-- 마포구 끝 -->
+
+
+        <!-- 양천구 18개 끝 -->
+        <item>목1동, 37.530314, 126.871121</item>
+        <item>목2동, 37.546061, 126.871700</item>
+        <item>목3동, 37.544703, 126.864428</item>
+        <item>목4동, 37.532369, 126.868340</item>
+        <item>목5동, 37.535119, 126.878590</item>
+        <item>신월1동, 37.532750, 126.831530</item>
+        <item>신월2동, 37.524924, 126.844566</item>
+        <item>신월3동, 37.533611, 126.829093</item>
+        <item>신월4동, 37.524663, 126.840140</item>
+        <item>신월5동, 37.538639, 126.827186</item>
+        <item>신월6동, 37.516034, 126.843678</item>
+        <item>신월7동, 37.521844, 126.834708</item>
+        <item>신정1동, 37.518538, 126.854286</item>
+        <item>신정2동, 37.519177, 126.870672</item>
+        <item>신정3동, 37.515121, 126.854787</item>
+        <item>신정4동, 37.523394, 126.858695</item>
+        <item>신정6동, 37.517043, 126.864424</item>
+        <item>신정7동, 37.514372, 126.859675</item>
+        <!-- 양천구 끝 -->
+
+
+        <!-- 강서구 18개 끝 -->
+        <item>가양1동, 37.569448, 126.844704</item>
+        <item>가양2동, 37.567365, 126.851286</item>
+        <item>가양3동, 37.561029, 126.860564</item>
+        <item>공항동, 37.558819, 126.810131</item>
+        <item>등촌1동, 37.555812, 126.858887</item>
+        <item>등촌2동, 37.542619, 126.862471</item>
+        <item>등촌3동, 37.558822, 126.847899</item>
+        <item>발산1동, 37.553089, 126.833140</item>
+        <item>방화1동, 37.571502, 126.812207</item>
+        <item>방화2동, 37.566696, 126.806735</item>
+        <item>방화3동, 37.578693, 126.813537</item>
+        <item>염창동, 37.553752, 126.870919</item>
+        <item>우장산동, 37.548187, 126.841835</item>
+        <item>화곡본동, 37.543999, 126.847628</item>
+        <item>화곡1동, 37.530425, 126.841564</item>
+        <item>화곡2동, 37.531787, 126.854444</item>
+        <item>화곡3동, 37.542507, 126.838400</item>
+        <item>화곡4동, 37.534561, 126.860704</item>
+        <item>화곡6동, 37.551757, 126.850065</item>
+        <item>화곡8동, 37.532675, 126.848315</item>
+        <!-- 강서구 끝 -->
+
+
+        <!-- 금천구 10개 끝 -->
+        <item>가산동, 37.476828, 126.891775</item>
+        <item>독산1동, 37.470175, 126.897057</item>
+        <item>독산2동, 37.466073, 126.899747</item>
+        <item>독산3동, 37.475155, 126.903232</item>
+        <item>독산4동, 37.467511, 126.902146</item>
+        <item>시흥1동, 37.453545, 126.903218</item>
+        <item>시흥2동, 37.450036, 126.916479</item>
+        <item>시흥3동, 37.440211, 126.905775</item>
+        <item>시흥4동, 37.458963, 126.906196</item>
+        <item>시흥5동, 37.452363, 126.908285</item>
+        <!-- 금천구 끝 -->
+
+
+        <!-- 영등포구 18개 끝 -->
+        <item>당산1동, 37.524953, 126.897335</item>
+        <item>당산2동, 37.534670, 126.902053</item>
+        <item>대림1동, 37.495414, 126.905812</item>
+        <item>대림2동, 37.492701, 126.898229</item>
+        <item>대림3동, 37.498266, 126.898052</item>
+        <item>도림동, 37.509429, 126.895916</item>
+        <item>문래동, 37.517061, 126.899506</item>
+        <item>신길1동, 37.511088, 126.921443</item>
+        <item>신길3동, 37.507263, 126.907727</item>
+        <item>신길4동, 37.508400, 126.911279</item>
+        <item>신길5동, 37.501588, 126.905196</item>
+        <item>신길6동, 37.499352, 126.909834</item>
+        <item>신길7동, 37.506342, 126.921444</item>
+        <item>양평1동, 37.523613, 126.888196</item>
+        <item>양평2동, 37.537759, 126.895915</item>
+        <item>여의동, 37.517572, 126.934542</item>
+        <item>영등포동, 37.520372, 126.910724</item>
+        <item>영등포본동, 37.514622, 126.909336</item>
+        <!-- 영등포구 끝 -->
+
+
+        <!-- 동작구 14개 끝 -->
+        <item>노량진1동, 37.512263, 126.942008</item>
+        <item>노량진2동, 37.508513, 126.937295</item>
+        <item>대방동, 37.508122, 126.926310</item>
+        <item>사당1동, 37.483002, 126.978739</item>
+        <item>사당2동, 37.488684, 126.979245</item>
+        <item>사당3동, 37.486625, 126.972025</item>
+        <item>사당4동, 37.480935, 126.971606</item>
+        <item>상도1동, 37.498051, 126.953085</item>
+        <item>상도2동, 37.505425, 126.942309</item>
+        <item>상도3동, 37.499061, 126.931370</item>
+        <item>상도4동, 37.500568, 126.937780</item>
+        <item>신대방1동, 37.488905, 126.910033</item>
+        <item>신대방2동, 37.498930, 126.925949</item>
+        <item>흑석동, 37.509487, 126.960529</item>
+        <!-- 동작구 끝 -->
+
+
+        <!-- 관악구 21개 끝 -->
+        <item>낙성대동, 37.476262, 126.958360</item>
+        <item>난곡동, 37.470986, 126.921639</item>
+        <item>난향동, 37.461462, 126.918782</item>
+        <item>남현동, 37.474546, 126.977866</item>
+        <item>대학동, 37.470601, 126.936948</item>
+        <item>미성동, 37.476160, 126.915555</item>
+        <item>보라매동, 37.488150, 126.932779</item>
+        <item>삼성동, 37.470073, 126.932977</item>
+        <item>서림동, 37.474961, 126.935003</item>
+        <item>서원동, 37.479737, 126.931361</item>
+        <item>성현동, 37.489500, 126.948077</item>
+        <item>신림동, 37.487375, 126.927108</item>
+        <item>신사동, 37.485374, 126.918086</item>
+        <item>신원동, 37.481570, 126.927334</item>
+        <item>은천동, 37.485292, 126.942414</item>
+        <item>인헌동, 37.475042, 126.965250</item>
+        <item>조원동, 37.482540, 126.907779</item>
+        <item>중앙동, 37.484185, 126.949723</item>
+        <item>청룡동, 37.479097, 126.941698</item>
+        <item>청림동, 37.491793, 126.958608</item>
+        <item>행운동, 37.480597, 126.957053</item>
+        <!-- 관악구 끝 -->
+
+
+        <!-- 서초구 22개 끝 -->
+        <item>구민정보화교실, 37.505123, 127.012857</item>
+        <item>내곡동, 37.461935, 127.051190</item>
+        <item>문화체육관광과, 37.483572, 127.032662</item>
+        <item>반포본동, 37.500460, 126.986080</item>
+        <item>반포1동, 37.505123, 127.012857</item>
+        <item>반포2동, 37.504542, 126.994492</item>
+        <item>반포3동, 37.511984, 127.005549</item>
+        <item>반포4동, 37.497494, 127.000373</item>
+        <item>방배본동, 37.494096, 126.988829</item>
+        <item>방배1동, 37.483320, 126.994469</item>
+        <item>방배2동, 37.479736, 126.985523</item>
+        <item>방배3동, 37.480267, 126.999025</item>
+        <item>방배4동, 37.488912, 126.992246</item>
+        <item>보건소, 37.483601, 127.033438</item>
+        <item>서초구청, 37.483572, 127.032662</item>
+        <item>서초1동, 37.490069, 127.019524</item>
+        <item>서초2동, 37.492018, 127.024718</item>
+        <item>서초3동, 37.483573, 127.012494</item>
+        <item>서초4동, 37.502652, 127.022134</item>
+        <item>양재1동, 37.471602, 127.026711</item>
+        <item>양재2동, 37.470575, 127.041212</item>
+        <item>잠원동, 37.514957, 127.013937</item>
+        <!-- 서초구 끝 -->
+
+
+        <!-- 송파구 26개 끝 -->
+        <item>가락본동, 37.495578, 127.121758</item>
+        <item>가락2동, 37.498653, 127.126622</item>
+        <item>거여1동, 37.496963, 127.143233</item>
+        <item>거여2동, 37.493547, 127.146787</item>
+        <item>마천1동, 37.495935, 127.149899</item>
+        <item>마천2동, 37.496822, 127.148537</item>
+        <item>문정1동, 37.490047, 127.124180</item>
+        <item>문정2동, 37.489851, 127.110872</item>
+        <item>방이1동, 37.510931, 127.123871</item>
+        <item>방이2동, 37.514515, 127.114424</item>
+        <item>삼전동, 37.502683, 127.092514</item>
+        <item>석촌동, 37.503545, 127.103679</item>
+        <item>송파1동, 37.506239, 127.109345</item>
+        <item>송파2동, 37.502294, 127.116734</item>
+        <item>오금동, 37.502963, 127.128089</item>
+        <item>오륜동, 37.515408, 127.134257</item>
+        <item>위례동, 37.486961, 127.132262</item>
+        <item>잠실본동, 37.506127, 127.084293</item>
+        <item>잠실2동, 37.511900, 127.088450</item>
+        <item>잠실3동, 37.513261, 127.094371</item>
+        <item>잠실4동, 37.520094, 127.112231</item>
+        <item>잠실6동, 37.518101, 127.100648</item>
+        <item>잠실7동, 37.508628, 127.077074</item>
+        <item>장지동, 37.486936, 127.132457</item>
+        <item>풍납1동, 37.538040, 127.122038</item>
+        <item>풍납2동, 37.528730, 127.116764</item>
+        <!-- 송파구 끝 -->
+
+
+        <!-- 강동구 18개 끝 -->
+        <item>강일동, 37.564981, 127.173863</item>
+        <item>고덕1동, 37.559012, 127.148925</item>
+        <item>고덕2동, 37.560456, 127.164367</item>
+        <item>길동, 37.539181, 127.146175</item>
+        <item>둔촌1동, 37.523459, 127.136733</item>
+        <item>둔촌2동, 37.533321, 127.141898</item>
+        <item>명일1동, 37.549735, 127.145979</item>
+        <item>명일2동, 37.546317, 127.151341</item>
+        <item>상일동, 37.551568, 127.165534</item>
+        <item>성내1동, 37.530456, 127.122456</item>
+        <item>성내2동, 37.532402, 127.129565</item>
+        <item>성내3동, 37.526014, 127.132871</item>
+        <item>암사1동, 37.551373, 127.132567</item>
+        <item>암사2동, 37.551705, 127.127203</item>
+        <item>암사3동, 37.554924, 127.140871</item>
+        <item>천호1동, 37.544987, 127.136785</item>
+        <item>천호2동, 37.543421, 127.125395</item>
+        <item>천호3동, 37.539790, 127.129840</item>
+        <!-- 강동구 끝 -->
+
+
+        <!-- 성북구 20개 끝 -->
+        <item>길음1동, 37.610468, 127.019356</item>
+        <item>길음2동, 37.606668, 127.027296</item>
+        <item>돈암1동, 37.603362, 127.026341</item>
+        <item>돈암2동, 37.597974, 127.010541</item>
+        <item>동선동, 37.593949, 127.020401</item>
+        <item>보문동, 37.580340, 127.022795</item>
+        <item>삼선동, 37.590880, 127.014520</item>
+        <item>석관동, 37.612919, 127.061399</item>
+        <item>성북동, 37.591004, 127.003268</item>
+        <item>안암동, 37.585840, 127.021352</item>
+        <item>월곡1동, 37.610490, 127.035768</item>
+        <item>월곡2동, 37.605724, 127.047827</item>
+        <item>장위1동, 37.614028, 127.043701</item>
+        <item>장위2동, 37.612360, 127.054483</item>
+        <item>장위3동, 37.616530, 127.056599</item>
+        <item>정릉1동, 37.601392, 127.016603</item>
+        <item>정릉2동, 37.604422, 127.011127</item>
+        <item>정릉3동, 37.608919, 127.004157</item>
+        <item>정릉4동, 37.613335, 127.006994</item>
+        <item>종암동, 37.599057, 127.035212</item>
+        <!-- 성북구 끝 -->
+
+
+        <!-- 노원구 19개 끝 -->
+        <item>공릉1동, 37.624775, 127.073764</item>
+        <item>공릉2동, 37.621250, 127.083286</item>
+        <item>상계1동, 37.679854, 127.054927</item>
+        <item>상계2동, 37.658775, 127.068484</item>
+        <item>상계3.4동, 37.672826, 127.083259</item>
+        <item>상계5동, 37.662914, 127.069374</item>
+        <item>상계6.7동, 37.654857, 127.066927</item>
+        <item>상계8동, 37.666690, 127.051568</item>
+        <item>상계9동, 37.664498, 127.063791</item>
+        <item>상계10동, 37.661275, 127.060260</item>
+        <item>월계1동, 37.619835, 127.062985</item>
+        <item>월계2동, 37.632472, 127.050737</item>
+        <item>월계3동, 37.620975, 127.069236</item>
+        <item>중계본동, 37.647777, 127.080291</item>
+        <item>중계1동, 37.652507, 127.077455</item>
+        <item>중계2.3동, 37.642109, 127.068739</item>
+        <item>중계4동, 37.658273, 127.075697</item>
+        <item>하계1동, 37.640531, 127.072541</item>
+        <item>하계2동, 37.632001, 127.067957</item>
+        <!-- 노원구 끝 -->
+
+
+        <!-- 은평구 16개 끝 -->
+        <item>갈현1동, 37.623631, 126.916692</item>
+        <item>갈현2동, 37.618584, 126.915806</item>
+        <item>구산동, 37.611721, 126.910360</item>
+        <item>녹번동, 37.602142, 126.929803</item>
+        <item>대조동, 37.614139, 126.920808</item>
+        <item>불광1동, 37.610333, 126.932024</item>
+        <item>불광2동, 37.626443, 126.927277</item>
+        <item>수색동, 37.584143, 126.897560</item>
+        <item>신사1동, 37.597751, 126.911764</item>
+        <item>신사2동, 37.590281, 126.908197</item>
+        <item>역촌동, 37.604391, 126.915084</item>
+        <item>응암1동, 37.600643, 126.926722</item>
+        <item>응암2동, 37.594586, 126.923085</item>
+        <item>응암3동, 37.592255, 126.915753</item>
+        <item>증산동, 37.584281, 126.907029</item>
+        <item>진관동, 37.635053, 126.920917</item>
+        <!-- 은평구 끝 -->
+
+
+        <!-- 종로구 16개 끝 -->
+        <item>가회동, 37.580003, 126.984774</item>
+        <item>교남동, 37.571869, 126.961970</item>
+        <item>무악동, 37.575979, 126.958162</item>
+        <item>부암동, 37.592390, 126.964020</item>
+        <item>사직동, 37.576172, 126.968801</item>
+        <item>숭인1동, 37.577783, 127.015631</item>
+        <item>숭인2동, 37.574837, 127.019966</item>
+        <item>삼청동, 37.584948, 126.981745</item>
+        <item>종로1.2.3.4가동, 37.570672, 126.988941</item>
+        <item>종로5.6가동, 37.572021, 127.005007</item>
+        <item>창신1동, 37.570702, 127.016379</item>
+        <item>창신2동, 37.574423, 127.010853</item>
+        <item>창신3동, 37.577812, 127.015020</item>
+        <item>청운효자동, 37.584087, 126.970607</item>
+        <item>평창동, 37.606253, 126.968108</item>
+        <item>혜화동, 37.586850, 127.000611</item>
+        <!-- 종로구 끝 -->
+
+
+        <!-- 중랑구 16개 끝 -->
+        <item>망우본동, 37.601422, 127.106371</item>
+        <item>망우3동, 37.592335, 127.098146</item>
+        <item>면목본동, 37.587311, 127.087485</item>
+        <item>면목2동, 37.589755, 127.079014</item>
+        <item>면목3.8동, 37.582922, 127.088096</item>
+        <item>면목4동, 37.574676, 127.085598</item>
+        <item>면목5동, 37.585756, 127.079514</item>
+        <item>면목7동, 37.578980, 127.086958</item>
+        <item>묵1동, 37.530315, 126.871121</item>
+        <item>묵2동, 37.546064, 126.871703</item>
+        <item>상봉1동, 37.599811, 127.087152</item>
+        <item>상봉2동, 37.592394, 127.083264</item>
+        <item>신내1동, 37.605809, 127.099484</item>
+        <item>신내2동, 37.606255, 127.094151</item>
+        <item>중화1동, 37.601145, 127.080652</item>
+        <item>중화2동, 37.602810, 127.076126</item>
+        <!-- 중랑구 끝 -->
+
+
+        <!-- 서대문구 16개 끝 -->
+        <item>남가좌1동, 37.570894, 126.916501</item>
+        <item>남가좌2동, 37.578393, 126.923861</item>
+        <item>북가좌1동, 37.574285, 126.910156</item>
+        <item>북가좌2동, 37.581449, 126.911169</item>
+        <item>신촌동, 37.454662, 127.104376</item>
+        <item>연희동, 37.573839, 126.935193</item>
+        <item>천연동, 37.571091, 126.959052</item>
+        <item>충현동, 37.564785, 126.954683</item>
+        <item>홍은1동, 37.598825, 126.947129</item>
+        <item>홍은2동, 37.580059, 126.934131</item>
+        <item>홍제1동, 37.587668, 126.944941</item>
+        <item>홍제2동, 37.586059, 126.949358</item>
+        <item>홍제3동, 37.593723, 126.949749</item>
+        <!-- 서대문구 끝 -->
+
+    </string-array>
+
+    <!-- phone -->
+    <string-array name="gangnam_phone_array">
+        <item>0234237770</item>
+        <item>0234237420</item>
+        <item>0234237520</item>
+        <item>0234238320</item>
+        <item>0234238420</item>
+        <item>0234238520</item>
+        <item>0221760690</item>
+        <item>0234237470</item>
+        <item>0234237570</item>
+        <item>0234237820</item>
+        <item>0234238220</item>
+        <item>0234238670</item>
+        <item>0234237320</item>
+        <item>0221760630</item>
+        <item>0234238620</item>
+        <item>0234237370</item>
+        <item>0234237720</item>
+        <item>0221760650</item>
+    </string-array>
+    <string-array name="yeongdpo_phone_array">
+        <item>0226701452</item>
+        <item>0226701129</item>
+        <item>0226701379</item>
+        <item>0226701419</item>
+        <item>0226701424</item>
+        <item>0226701154</item>
+        <item>0226701174</item>
+        <item>0226701259</item>
+        <item>0226701456</item>
+        <item>0226701299</item>
+        <item>0226701304</item>
+        <item>0226701329</item>
+        <item>0226701354</item>
+        <item>0226701199</item>
+        <item>0226701233</item>
+        <item>0226701079</item>
+        <item>0226701450</item>
+        <item>0226701024</item>
+    </string-array>
+    <string-array name="seoulGu_array">
+        <item>강남구</item>
+        <item>강동구</item>
+        <item>강북구</item>
+        <item>강서구</item>
+        <item>관악구</item>
+        <!-- - -->
+        <item>광진구</item>
+        <item>구로구</item>
+        <item>금천구</item>
+        <item>노원구</item>
+        <item>도봉구</item>
+        <!-- - -->
+        <item>동대문구</item>
+        <item>동작구</item>
+        <item>마포구</item>
+        <item>서대문구</item>
+        <item>서초구</item>
+        <!-- - -->
+        <item>성동구</item>
+        <item>성북구</item>
+        <item>송파구</item>
+        <item>양천구</item>
+        <item>영등포구</item>
+        <!-- - -->
+        <item>용산구</item>
+        <item>은평구</item>
+        <item>종로구</item>
+        <item>중구</item>
+        <item>중랑구</item>
+        <!-- 25개 자치구 -->
+    </string-array>
+    <string-array name="empty_array">
+        <item>구를 먼저 선택해주세요</item>
+    </string-array>
+    <string-array name="gangnam_array">
+        <item>개포2동</item>
+        <item>논현1동</item>
+        <item>논현2동</item>
+        <item>대치1동</item>
+        <item>대치2동</item>
+        <item>대치4동</item>
+        <item>대치평생학습관</item>
+        <item>도곡1동</item>
+        <item>도곡2동</item>
+        <item>삼성1동</item>
+        <item>삼성2동</item>
+        <item>세곡문화센터</item>
+        <item>신사문화센터</item>
+        <item>압구정평생학습관</item>
+        <item>역삼1동</item>
+        <item>역삼2동</item>
+        <item>청담동</item>
+        <item>청담평생학습관</item>
+    </string-array>
+    <string-array name="gangdong_array">
+        <item>강일동</item>
+        <item>고덕1동</item>
+        <item>고덕2동</item>
+        <item>길동</item>
+        <item>둔촌1동</item>
+        <item>둔촌2동</item>
+        <item>명일1동</item>
+        <item>명일2동</item>
+        <item>상일동</item>
+        <item>성내1동</item>
+        <item>성내2동</item>
+        <item>성내3동</item>
+        <item>암사1동</item>
+        <item>암사2동</item>
+        <item>암사3동</item>
+        <item>천호1동</item>
+        <item>천호2동</item>
+        <item>천호3동</item>
+    </string-array>
+    <string-array name="gangbuk_array">
+        <item>미아동</item>
+        <item>번1동</item>
+        <item>번2동</item>
+        <item>번3동</item>
+        <item>삼각산동</item>
+        <item>삼양동(삼양관)</item>
+        <item>삼양동(솔샘관)</item>
+        <item>송중동(송중관)</item>
+        <item>송중동(정보문화관)</item>
+        <item>송천동(송천관)</item>
+        <item>송천동(솔샘관)</item>
+        <item>수유1동</item>
+        <item>수유2동</item>
+        <item>수유3동</item>
+        <item>우이동</item>
+        <item>인수동(나눔터관)</item>
+        <item>인수동(인수봉관)</item>
+    </string-array>
+    <string-array name="gangseo_array">
+        <item>가양1동</item>
+        <item>가양2동</item>
+        <item>가양3동</item>
+        <item>공항동</item>
+        <item>등촌1동</item>
+        <item>등촌2동</item>
+        <item>등촌3동</item>
+        <item>발산1동</item>
+        <item>방화1동</item>
+        <item>방화2동</item>
+        <item>방화3동</item>
+        <item>염창동</item>
+        <item>우장산동</item>
+        <item>화곡본동</item>
+        <item>화곡1동</item>
+        <item>화곡2동</item>
+        <item>화곡3동</item>
+        <item>화곡4동</item>
+        <item>화곡6동</item>
+        <item>화곡8동</item>
+    </string-array>
+    <string-array name="gwanak_array">
+        <item>낙성대동</item>
+        <item>난곡동</item>
+        <item>난향동</item>
+        <item>남현동</item>
+        <item>대학동</item>
+        <item>미성동</item>
+        <item>보라매동</item>
+        <item>삼성동</item>
+        <item>서림동</item>
+        <item>서원동</item>
+        <item>성현동</item>
+        <item>신림동</item>
+        <item>신사동</item>
+        <item>신원동</item>
+        <item>은천동</item>
+        <item>인헌동</item>
+        <item>조원동</item>
+        <item>중앙동</item>
+        <item>청룡동</item>
+        <item>청림동</item>
+        <item>행운동</item>
+    </string-array>
+    <string-array name="gwangjin_array">
+        <item>광장동</item>
+        <item>구의1동</item>
+        <item>구의2동</item>
+        <item>구의3동</item>
+        <item>군자동</item>
+        <item>능동</item>
+        <item>자양1동</item>
+        <item>자양2동</item>
+        <item>자양3동</item>
+        <item>자양4동</item>
+        <item>중곡1동</item>
+        <item>중곡2동</item>
+        <item>중곡3동</item>
+        <item>중곡4동</item>
+        <item>화양동</item>
+    </string-array>
+    <string-array name="guro_array">
+        <item>가리봉동</item>
+        <item>개봉1동</item>
+        <item>개봉2동</item>
+        <item>개봉3동</item>
+        <item>고척1동</item>
+        <item>고척2동</item>
+        <item>구로1동</item>
+        <item>구로2동</item>
+        <item>구로3동</item>
+        <item>구로4동</item>
+        <item>구로5동</item>
+        <item>수궁동</item>
+        <item>신도림동</item>
+        <item>오류1동</item>
+        <item>오류2동</item>
+    </string-array>
+    <string-array name="geumcheon_array">
+        <item>가산동</item>
+        <item>독산1동</item>
+        <item>독산2동</item>
+        <item>독산3동</item>
+        <item>독산4동</item>
+        <item>시흥1동</item>
+        <item>시흥2동</item>
+        <item>시흥3동</item>
+        <item>시흥4동</item>
+        <item>시흥5동</item>
+    </string-array>
+    <string-array name="nowon_array">
+        <item>공릉1동</item>
+        <item>공릉2동</item>
+        <item>상계1동</item>
+        <item>상계2동</item>
+        <item>상계3,4동</item>
+        <item>상계5동</item>
+        <item>상계6,7동</item>
+        <item>상계8동</item>
+        <item>상계9동</item>
+        <item>상계10동</item>
+        <item>월계1동</item>
+        <item>월계2동</item>
+        <item>월계3동</item>
+        <item>중계본동</item>
+        <item>중계1동</item>
+        <item>중계2,3동</item>
+        <item>중계4동</item>
+        <item>하계1동</item>
+        <item>하계2동</item>
+    </string-array>
+    <string-array name="dobong_array">
+        <item>도봉1동</item>
+        <item>도봉2동</item>
+        <item>방학1동</item>
+        <item>방학2동</item>
+        <item>방학3동</item>
+        <item>쌍문1동</item>
+        <item>쌍문2동</item>
+        <item>쌍문3동</item>
+        <item>쌍문4동</item>
+        <item>창1동</item>
+        <item>창2동</item>
+        <item>창3동</item>
+        <item>창4동</item>
+        <item>창5동</item>
+    </string-array>
+    <string-array name="dongdm_array">
+        <item>답십리1동</item>
+        <item>답십리2동</item>
+        <item>용신동</item>
+        <item>이문1동</item>
+        <item>이문2동</item>
+        <item>장안1동</item>
+        <item>장안2동</item>
+        <item>전농1동</item>
+        <item>전농2동</item>
+        <item>제기동</item>
+        <item>청량리동</item>
+        <item>회기동</item>
+        <item>휘경1동</item>
+        <item>휘경2동</item>
+    </string-array>
+    <string-array name="dongjak_array">
+        <item>노량진1동</item>
+        <item>노량진2동</item>
+        <item>대방동</item>
+        <item>사당1동</item>
+        <item>사당2동</item>
+        <item>사당3동</item>
+        <item>사당4동</item>
+        <item>사당5동</item>
+        <item>상도1동</item>
+        <item>상도2동</item>
+        <item>상도3동</item>
+        <item>상도4동</item>
+        <item>신대방1동</item>
+        <item>신대방2동</item>
+        <item>흑석동</item>
+    </string-array>
+    <string-array name="mapo_array">
+        <item>공덕동</item>
+        <item>대흥동</item>
+        <item>도화동</item>
+        <item>망원1동</item>
+        <item>망원2동</item>
+        <item>상암동</item>
+        <item>서강동</item>
+        <item>서교동</item>
+        <item>성산1동</item>
+        <item>성산2동</item>
+        <item>신수동</item>
+        <item>아현동</item>
+        <item>연남동</item>
+        <item>염리동</item>
+        <item>용강동</item>
+        <item>합정동</item>
+    </string-array>
+    <string-array name="sdmoon_array">
+        <item>남가좌1동</item>
+        <item>남가좌2동</item>
+        <item>북가좌1동</item>
+        <item>북가좌2동</item>
+        <item>신촌동</item>
+        <item>연희동</item>
+        <item>천연동</item>
+        <item>충현동</item>
+        <item>홍은1동</item>
+        <item>홍은2동</item>
+        <item>홍제1동</item>
+        <item>홍제2동</item>
+        <item>홍제3동</item>
+    </string-array>
+    <string-array name="seocho_array">
+        <item>구민정보화교실</item>
+        <item>내곡동</item>
+        <item>문화체육관광과</item>
+        <item>반포본동</item>
+        <item>반포1동</item>
+        <item>반포2동</item>
+        <item>반포3동</item>
+        <item>반포4동</item>
+        <item>방배본동</item>
+        <item>방배1동</item>
+        <item>방배2동</item>
+        <item>방배3동</item>
+        <item>방배4동</item>
+        <item>보건소</item>
+        <item>서초구청</item>
+        <item>서초1동</item>
+        <item>서초2동</item>
+        <item>서초3동</item>
+        <item>서초4동</item>
+        <item>양재1동</item>
+        <item>양재2동</item>
+        <item>잠원동</item>
+    </string-array>
+    <string-array name="seongdong_array">
+        <item>금호1가동</item>
+        <item>금호2-3가동</item>
+        <item>금호4가동</item>
+        <item>마장동</item>
+        <item>사근동</item>
+        <item>성수1가1동</item>
+        <item>성수1가2동</item>
+        <item>성수2가1동</item>
+        <item>성수2가3동</item>
+        <item>송정동</item>
+        <item>옥수동</item>
+        <item>왕십리2동</item>
+        <item>왕십리도선동</item>
+        <item>용답동</item>
+        <item>응봉동</item>
+        <item>행당1동</item>
+        <item>행당2동</item>
+    </string-array>
+    <string-array name="seongbuk_array">
+        <item>길음1동</item>
+        <item>길음2동</item>
+        <item>돈암1동</item>
+        <item>돈암2동</item>
+        <item>동선동</item>
+        <item>보문동</item>
+        <item>삼선동</item>
+        <item>석관동</item>
+        <item>성북동</item>
+        <item>안암동</item>
+        <item>월곡1동</item>
+        <item>월곡2동</item>
+        <item>장위1동</item>
+        <item>장위2동</item>
+        <item>장위3동</item>
+        <item>정릉1동</item>
+        <item>정릉2동</item>
+        <item>정릉3동</item>
+        <item>정릉4동</item>
+        <item>종암동</item>
+    </string-array>
+    <string-array name="songpa_array">
+        <item>가락2동</item>
+        <item>가락본동</item>
+        <item>거여1동</item>
+        <item>거여2동</item>
+        <item>마천1동</item>
+        <item>마천2동</item>
+        <item>문정1동</item>
+        <item>문정2동</item>
+        <item>방이1동</item>
+        <item>방이2동</item>
+        <item>삼전동</item>
+        <item>석촌동</item>
+        <item>송파1동</item>
+        <item>송파2동</item>
+        <item>오금동</item>
+        <item>오륜동</item>
+        <item>위례동</item>
+        <item>잠실2동</item>
+        <item>잠실3동</item>
+        <item>잠실4동</item>
+        <item>잠실6동</item>
+        <item>잠실7동</item>
+        <item>잠실본동</item>
+        <item>장지동</item>
+        <item>풍납1동</item>
+        <item>풍납2동</item>
+    </string-array>
+    <string-array name="yangcheon_array">
+        <item>목1동</item>
+        <item>목2동</item>
+        <item>목3동</item>
+        <item>목4동</item>
+        <item>목5동</item>
+        <item>신월1동</item>
+        <item>신월2동</item>
+        <item>신월3동</item>
+        <item>신월4동</item>
+        <item>신월5동</item>
+        <item>신월6동</item>
+        <item>신월7동</item>
+        <item>신정1동</item>
+        <item>신정2동</item>
+        <item>신정3동</item>
+        <item>신정4동</item>
+        <item>신정6동</item>
+        <item>신정7동</item>
+    </string-array>
+    <string-array name="yeongdpo_array">
+        <item>당산1동</item>
+        <item>당산2동</item>
+        <item>대림1동</item>
+        <item>대림2동</item>
+        <item>대림3동</item>
+        <item>도림동</item>
+        <item>문래동</item>
+        <item>신길1동</item>
+        <item>신길3동</item>
+        <item>신길4동</item>
+        <item>신길5동</item>
+        <item>신길6동</item>
+        <item>신길7동</item>
+        <item>양평1동</item>
+        <item>양평2동</item>
+        <item>여의동</item>
+        <item>영등포동</item>
+        <item>영등포본동</item>
+    </string-array>
+    <string-array name="yongsan_array">
+        <item>남영동</item>
+        <item>보광동</item>
+        <item>서빙고동</item>
+        <item>용문동</item>
+        <item>용산2가동</item>
+        <item>원효로1동</item>
+        <item>원효로2동</item>
+        <item>이촌1동</item>
+        <item>이촌2동</item>
+        <item>이태원1동</item>
+        <item>이태원2동</item>
+        <item>청파동</item>
+        <item>한강로동</item>
+        <item>한남동</item>
+        <item>효창동</item>
+        <item>후암동</item>
+    </string-array>
+    <string-array name="eunpyeong_array">
+        <item>갈현1동</item>
+        <item>갈현2동</item>
+        <item>구산동</item>
+        <item>녹번동</item>
+        <item>대조동</item>
+        <item>불광1동</item>
+        <item>불광2동</item>
+        <item>신사1동</item>
+        <item>신사2동</item>
+        <item>역촌동</item>
+        <item>응암1동</item>
+        <item>응암2동</item>
+        <item>응암3동</item>
+        <item>증산동</item>
+        <item>진관동</item>
+    </string-array>
+    <string-array name="jongno_array">
+        <item>가회동</item>
+        <item>교남동</item>
+        <item>무악동</item>
+        <item>부암동</item>
+        <item>사직동</item>
+        <item>숭인1동</item>
+        <item>숭인2동</item>
+        <item>삼청동</item>
+        <item>종로1.2.3.4가동</item>
+        <item>종로5.6가동</item>
+        <item>창신1동</item>
+        <item>창신2동</item>
+        <item>창신3동</item>
+        <item>청운효자동</item>
+        <item>평창동</item>
+        <item>혜화동</item>
+    </string-array>
+    <string-array name="junggu_array">
+        <item>광희동</item>
+        <item>다산동</item>
+        <item>동화동</item>
+        <item>명동</item>
+        <item>소공동</item>
+        <item>신당5동</item>
+        <item>신당동</item>
+        <item>약수동</item>
+        <item>을지로동</item>
+        <item>장충동</item>
+        <item>중림동</item>
+        <item>청구동</item>
+        <item>필동</item>
+        <item>황학동</item>
+        <item>회현동</item>
+    </string-array>
+    <string-array name="jungnang_array">
+        <item>망우본동</item>
+        <item>망우3동</item>
+        <item>면목본동</item>
+        <item>면목2동</item>
+        <item>면목3,8동</item>
+        <item>면목4동</item>
+        <item>면목5동</item>
+        <item>면목7동</item>
+        <item>묵1동</item>
+        <item>묵2동</item>
+        <item>상봉1동</item>
+        <item>상봉2동</item>
+        <item>신내1동</item>
+        <item>신내2동</item>
+        <item>중화1동</item>
+        <item>중화2동</item>
+    </string-array>
+
+</resources>
